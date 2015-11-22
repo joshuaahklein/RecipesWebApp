@@ -1,0 +1,48 @@
+Try Something New
+Kale and Hakurei Turnip Stir Fry
+Rating:
+0
+Ingredients
+1/2 cup lardons or bacon cut into batons
+1 tbsp olive oil
+1 1/2 cup hakurei turnips, cubed
+2-3 garlic cloves, chopped
+2-3 cups kale leaves, chopped
+1 bay leaf
+2 tbsp white wine vinegar
+2 tbsp water
+Salt and pepper
+Directions
+Cook and brown the bacon in a wok until almost crisp.  Remove and set aside.  Take out all but 1 tablespoon of the bacon fat, then add the tablespoon of olive oil.
+Add the turnips to the wok, stir frying until lightly browned.  Remove and set aside.  Add the kale leaves and stir fry until wilted.
+Put the bacon and turnips back into the wok, add the bay leaf, vinegar, water, salt and pepper.  Steam for about 5 minutes until the kale is crisp tender.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Casseroles
+Cheese
+Fish
+Pizza
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

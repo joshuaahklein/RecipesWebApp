@@ -1,0 +1,52 @@
+Try Something New
+Spaghetti with Parmesan Bacon and Green Peas
+Servings:
+8
+Rating:
+5
+Ingredients
+1 pound uncooked spaghetti
+12 bacon slices, chopped
+3 garlic cloves, minced
+1 cup 2% reduced fat milk
+1 teaspoon salt
+1 teaspoon ground black pepper
+3 large eggs
+1 cup frozen green peas, thawed
+1 ½ cup grated fresh Parmesan cheese
+Directions
+Cook pasta according to package direction. Drain in a colander over the bowl, reserving about ¾ of the cooking liquid.
+While pasta cooks, cook bacon in a large nonstick skillet, until crisp. Remove bacon pieces from the pan, discard fat, reserving 1 tablespoon. Add garlic, and cook for 30 seconds.
+In a medium bowl, whisk together milk, eggs, salt and black pepper. Add reserved hot cooking liquid, stirring constantly.
+Add pasta, milk and egg mixture, and peas to a pan with garlic.
+Cook over low heat, for 3 minutes, or until sauce thickens. Add bacon and Parmesan cheese, and toss to combine.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Lamb
+Sandwiches
+Snacks
+Thai
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

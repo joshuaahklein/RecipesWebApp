@@ -1,0 +1,47 @@
+Try Something New
+Mirabelle Ice Cream
+Rating:
+4
+Ingredients
+1 lb mirabelle plums, seeded and coarsely chopped
+Juice 1/2 lemon
+1 cup sugar
+2 large eggs
+2 cups heavy cream
+1 cup milk
+Directions
+Mix the plums, lemon juice and
+1/2 cup
+of the sugar together, refrigerate for 2 hours, stirring every 30 minutes.  Strain the juice from the fruit, refrigerate the fruit and reserve the juice.
+Whisk the eggs together in a bowl for about 1-2 minutes until fluffy.  Add the remaining 1/2 cup of sugar a little at a time until blended.  Add the cream and milk and whisk until blended.  Blend in the juice and put this mixture into the chilled container of an ice cream making machine, then turn it on for about 30 minutes.  Add the fruit and continue to run the machine for 10-15 minutes.  Remove the ice cream for the container and freeze for a couple of hours.
+Or just follow the instructions for your ice cream machine.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Asian Fusion
+Barbeque
+Pizza
+Turkey
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

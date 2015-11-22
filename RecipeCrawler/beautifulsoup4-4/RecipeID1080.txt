@@ -1,0 +1,47 @@
+Try Something New
+Spaghetti Squash Capricious
+Rating:
+5
+Ingredients
+1 large spaghetti squash
+1/3 cup chopped bacon
+2 large garlic cloves, chopped
+2 handfuls spinach, chopped
+3 tbsp fresh basil leaves, chopped
+4 plum tomatoes, cut into chunks
+2 tbsp olive oil
+3/4 cup mozzarella plus extra, as much as you like, for topping, grated
+Salt and pepper
+Directions
+Pierce the squash with a cooking fork on four sides, then roast for 40 minutes at 375 F, turn, and roast for another 40 minutes.  Remove the squash from the oven, cut off the stem end, cut in half lengthwise, remove the seeds and slimy stuff, then scrape with a fork and remove the spaghetti like threads to a large bowl.
+Cook the bacon in a skillet until brown and crisp, then remove and drain on a paper towel. Add the garlic to the skillet and briefly toast.  Put the bacon, garlic, spinach, basil, tomatoes, olive oil, the 3/4 cup of mozzarella, salt and pepper in the bowl with the squash. Mix well, then pour into a baking pan, sprinkle with the extra cheese and bake at 375 F for 30-40 minutes.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Buffalo
+Fish
+Greek
+Soups & Stews
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

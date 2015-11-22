@@ -1,0 +1,44 @@
+Try Something New
+Goose Egg with Spinach
+Rating:
+2
+Ingredients
+1/4 cup lardons or diced bacon
+1 tsp butter
+1 shallot, chopped
+1 big handful of adolescent spinach, stems removed and leaves torn
+White pepper
+1 goose egg
+Directions
+Brown the lardons in a saute pan, then remove and set aside.  Add the butter to the pan and melt.  Add the shallot and saute until soft.  Add the spinach and wilt.  Put the lardons back in the pan, sprinkle with the pepper and remove from flame.
+Put the goose egg in water over a flame.  When the water comes to a boil, simmer it for 9 minutes.  Remove the hot water and run cold water over the egg.  Peel, cut in half and serve with the spinach.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Beverages
+Italian
+Turkey
+Vegan
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

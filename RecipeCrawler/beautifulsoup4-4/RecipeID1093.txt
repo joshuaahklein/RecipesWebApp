@@ -1,0 +1,54 @@
+Try Something New
+Homemade Granola
+Rating:
+4
+Ingredients
+2 cups oats
+1 cup flaxseed
+1 cup sliced almonds
+1 cup walnuts
+1 tsp. cinnamon
+1/4 tsp. salt
+4 tbsp. applesauce
+1/4 cup brown sugar
+1/4 cup honey
+1 tsp. vanilla
+1/2 cup raisins
+1/2 cup craisins
+Directions
+Preheat oven to 300 degrees. Line a 9x13” baking pan with foil and spray with non-stick cooking spray. Toast nuts and/or oatmeal in oven for 5 minutes if desired.
+Mix oats, nuts, cinnamon, and salt in a large bowl.
+Combine applesauce, brown sugar, and honey in medium saucepan over medium heat, stirring until mixture begins to boil. Add vanilla and stir; remove from heat.
+Pour over dry mixture, stirring until well-coated. Transfer to pan and, using a spatula, press oats evenly into pan.
+Bake until top is golden brown (25-30 minutes), stirring every 10 minutes or so. Transfer pan to rack and cool for 30 minutes – 1 hour to make it crispy.
+Using the foil as an aid, lift out of pan and crumble into pieces, mixing in craisins and/or raisins.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Asian Fusion
+Duck
+Italian
+Salads
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

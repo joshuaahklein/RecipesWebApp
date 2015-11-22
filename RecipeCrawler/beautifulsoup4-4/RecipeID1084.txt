@@ -1,0 +1,40 @@
+Try Something New
+Brussels Sprouts with Bacon
+Rating:
+5
+Ingredients
+brussels sprouts
+2-3 slices of bacon, chopped
+coconut oil, lard, or butter
+Directions
+Melt some coconut oil, lard, or butter in a cast iron or stainless steel skillet over medium-high heat.  Chop the ends off your brussels sprouts and slice in half.  Add to the skillet.  Let cook until they are just starting to soften.  Add your chopped bacon to the pan.  Continue to cook until they reach your desired doneness.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Grill
+Pizza
+Seafood
+Snacks
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

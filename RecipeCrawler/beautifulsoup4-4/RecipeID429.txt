@@ -1,0 +1,44 @@
+Try Something New
+Cabbage, Sausage and Peppers
+Rating:
+3
+Ingredients
+1 lb Italian bulk sausage
+2 tbsp butter
+2 scallions, sliced
+1 green bell pepper, sliced
+1 very small cabbage head, chopped
+Salt and pepper
+Crushed red pepper
+Directions
+In a wok, fry and brown the sausage, then remove and place on paper towels to drain. Wipe out the wok with a paper towel, then add the butter, scallions and bell pepper and saute for 2-3 minutes.  Add the cabbage, season with salt and pepper, then stir fry for about 5 minutes.   Put the sausage back into the wok, add 2 tablespoons of water, cover and simmer for another 5 minutes. Pack into the box and sprinkle with crushed red pepper.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+American
+Chinese
+Fruit
+Seafood
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

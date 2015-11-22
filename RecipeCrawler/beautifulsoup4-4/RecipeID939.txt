@@ -1,0 +1,47 @@
+Try Something New
+Wax Beans with Smoked Duck Breast
+Rating:
+4
+Ingredients
+1 lb fresh wax beans, washed and ends trimmed
+1lb new potatoes, halved or quartered according to size
+Salt and pepper
+1 tbsp olive oil
+1/4 lb smoked, sliced duck breast
+2 garlic cloves, thinly sliced
+1/2 lb cherry tomatoes, halved
+1 handful parsley, chopped
+1 tbsp olive oil
+Directions
+Blanch the beans in boiling water for 10 minutes, drain and set aside.
+Mix the potatoes with the salt, pepper and olive oil, then roast in a 400 F oven for 10 minutes.  Stir in the cooked beans, then return to the oven for 10 minutes.  Stir in the duck breast and garlic, then return to the oven for 5 minutes.  Stir in the tomatoes, parsley and tablespoon of olive oil, then serve hot or room temperature.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Appetizers
+Buffalo
+German
+Vegetables
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

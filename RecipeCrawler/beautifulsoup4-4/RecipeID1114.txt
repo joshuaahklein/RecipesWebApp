@@ -1,0 +1,45 @@
+Try Something New
+Hakurei Turnip and Tuscan Kale Stir Fry
+Rating:
+1
+Ingredients
+6 hakurei turnips, cut into cubes
+1 1/2 tbsp olive oil
+1 cup cooked ham, coarsely chopped
+2 garlic cloves, chopped
+2 cups Tuscan kale leaves, chopped
+2 bay leaves
+2 tbsp white wine vinegar
+Salt and pepper
+Directions
+Brown the turnip cubes in the olive oil.  Add the ham and garlic, then cook until the garlic is aromatic.  Add the kale, bay leaves, vinegar, salt and pepper, then cover and steam for 4-5 minutes.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Condiments & Sauces
+French
+Salads
+Sandwiches
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

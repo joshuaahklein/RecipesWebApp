@@ -1,0 +1,47 @@
+Try Something New
+Kale and Quinoa Pilaf
+Rating:
+3
+Ingredients
+1 cup quinoa
+1 bunch lacinato kale, washed and chopped into 1" lengths
+1 meyer or regular lemon, zested and juiced
+2 scallions, minced (optional)
+1 tablespoon toasted walnut oil or olive oil
+3 tablespoons toasted pine nuts
+1/4 cup crumbled goat cheese or feta cheese
+salt and pepper
+Directions
+Bring 2 cups of salted water to a boil in a pot. Add the quinoa, cover, and lower the heat until it is just enough to maintain a simmer. Let simmer for 10 minutes, then top with the kale and re-cover. Simmer another 5 minutes, then turn off the heat and allow to steam for 5 more minutes.
+While the quinoa is cooking, take a large serving bowl and combine half of the lemon juice (reserving the other half), all of the lemon zest, scallions, walnut or olive oil, pine nuts, and cheese.
+Check the quinoa and kale when the cooking time has completed -- the water should have absorbed, and the quinoa will be tender but firm, and the kale tender and bright green. If the quinoa still has a hard white center, you can steam a bit longer (adding more water if needed). When the quinoa and kale are done, fluff the pilaf, and tip it into the waiting bowl with the remaining ingredients. As the hot quinoa hits the scallions and lemon it should smell lovely. Toss to combine, seasoning with salt and pepper, and the remaining lemon juice if needed.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Greek
+Pasta
+Pet Food & Treats
+Vegetables
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

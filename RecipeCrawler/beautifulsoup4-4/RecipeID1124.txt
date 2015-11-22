@@ -1,0 +1,48 @@
+Try Something New
+Spice-Crusted Salmon with Ginger-Cilantro Yogurt Sauce
+Rating:
+5
+Ingredients
+1/2 cup plain yogurt
+2 tablespoons chopped fresh cilantro
+3 teaspoons fresh lime juice, divided
+3 teaspoons olive oil, divided
+1 teaspoon minced peeled fresh ginger
+1 garlic clove, pressed
+1 teaspoon fennel seeds
+1 teaspoon coriander seeds
+4 6-ounce salmon fillets with skin
+Lime wedges
+Directions
+Mix yogurt, cilantro, 1 teaspoon lime juice, 1 teaspoon oil, ginger, and garlic in small bowl. Season with salt and pepper. Place fennel seeds and coriander seeds in heavy-duty plastic bag. Using a mallet, crush seeds. Sprinkle flesh of the fillets with salt, pepper, and seeds.
+Heat 2 teaspoons oil in large nonstick skillet over medium-high heat. Add fillets, seed (flesh) side down. Cook until brown, about 3 minutes. Turn over. Cook until just opaque in center, about 3 minutes (the skin should be nice and crispy by this point). Drizzle with 2 teaspoons lime juice. Place fillets on plates. Top with sauce; serve with lime wedges.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Grill
+Pasta
+Pizza
+Snacks
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

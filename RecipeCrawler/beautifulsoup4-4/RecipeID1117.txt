@@ -1,0 +1,51 @@
+Try Something New
+Chicken Chili with Pesto
+Rating:
+4
+Ingredients
+2 tsp. oil
+3/4 c. chopped onion
+2 c. boneless cooked chopped chicken breast
+1 1/2 c chopped carrot
+3/4 c. chopped red pepper
+3/4 c. thinly sliced celery
+1/4 c. chopped green chilies
+3/4 tsp. dried oregano
+1/2 tsp. cumin
+1/4 tsp. salt
+1/8 tsp. black pepper
+1 16oz can cannellini beans, rinsed and drained
+1 14 1/2 oz can chicken broth
+3 Tab. jarred pesto
+Directions
+Heat oil in a Dutch overn over medium heat. Add onion, carrot, red pepper, and celery and saute for 4-5 minutes. Add chicken and the next 6 ingredients (chiles through broth). Bring to a boil. Cover. Reduce heat and simmer for 25 minutes. Stir in pesto.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Desserts
+European
+Fish
+Pasta
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

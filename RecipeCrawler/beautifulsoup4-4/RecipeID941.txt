@@ -1,0 +1,52 @@
+Try Something New
+Purslane Salad with Cherries and Feta
+Servings:
+4
+Rating:
+1
+Ingredients
+Dressing:
+juice of 1/2 lemon
+1/4 cup extra virgin olive oil
+1 clove garlic, thwacked with a knife
+dollop of honey
+salt and pepper to taste
+Salad:
+1 generous bunch purslane, thick stems cut away (about 4 cups)
+a few leaves fresh mint, roughly torn (I was too hot/lazy to walk out and harvest/steal these, but I think they'd make a lovely addition)
+a few handfuls cherries, pitted and halved
+1 to 2 ounces feta, crumbled
+a few pinches sumac (optional)
+Directions
+Place all of the dressing ingredients together in a jar with a leak-proof lid, and shake-shake-shake to emulsify. Taste, and adjust seasonings as needed. Set aside.
+Tumble together the purslane and mint on a serving platter or individual plates. Scatter the cherries and feta on top, and scatter on a few pinches sumac (if desired). Give the dressing another shake, and lightly dress the salad. Serve.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Barbeque
+Breakfast
+Chinese
+Salads
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

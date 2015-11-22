@@ -1,0 +1,51 @@
+Try Something New
+Sausage and Peppers
+Rating:
+2
+Ingredients
+8 hot Italian sausages
+2 tbsp olive oil
+1 green and red bell pepper each, sliced into strips
+1large onion, cut into half, then sliced
+4-5 fresh garlic cloves, sliced
+1 tbsp oregano
+1 tsp red pepper flakes
+Salt and pepper to taste
+1/2 cup red wine
+1 can diced tomatoes
+2 fresh baguettes
+Grated cheese
+Directions
+Brown the sausages in the oil, remove and set aside, keeping warm.  Put the bell peppers, onions and garlic in the skillet and saute until the onions are just soft.
+Shake in the oregano, pepper flakes, salt and pepper, then continue to saute for 1 minute. Add the red wine and boil for 2 minutes.  Add the tomatoes and simmer for about 5 minutes.
+Cut the baguettes into 8 pieces, split and load in the sausages, peppers and onions.  Sprinkle with cheese
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Beverages
+Casseroles
+French
+German
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

@@ -1,0 +1,41 @@
+Try Something New
+Bagel Chips
+Rating:
+1
+Ingredients
+bagels, sliced as thinly as possible
+olive oil
+seasonings (salt, chopped or pressed garlic, fresh rosemary, etc.)
+Directions
+Preheat the oven to 350 degrees.
+Place the bagels in a bowl, and barely coat them with olive oil (If you have one of those olive oil misters or a pastry brush, those work perfectly, but if you're like me, just drizzle with a bit of oil, place another large bowl over the top, shake madly, and repeat as necessary until they're all lightly coated). Toss with any desired seasonings, and turn out onto a cookie sheet(s) in a single layer. Bake, turning once or twice, until they're cooked to your desired level of browning, ~15-25 minutes. They will crisp up further upon cooling.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Brunch
+Greek
+Russian
+Side Dishes
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

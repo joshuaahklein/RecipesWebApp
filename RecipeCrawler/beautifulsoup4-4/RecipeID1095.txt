@@ -1,0 +1,44 @@
+Try Something New
+Roasted Balsamic Pumpkin with Onions
+Rating:
+1
+Ingredients
+1 very small pumpkin, peeled and cut into small chunks
+1 onion, peeled and quartered
+2 garlic cloves, sliced very thin
+3-4 sprigs of thyme
+2 tbsp butter, melted
+Salt and pepper
+1 tbsp balsamic vinegar
+Directions
+Mix together the pumpkin, onion, garlic, thyme, butter, salt and pepper.  Place in a roasting pan and roast at 400F for 15 minutes, stir, then continue to roast for another 15 minutes.  Sprinkle with the vinegar, stir and serve.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Asian Fusion
+French
+Italian
+Pork
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

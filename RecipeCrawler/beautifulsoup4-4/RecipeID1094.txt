@@ -1,0 +1,45 @@
+Try Something New
+Jamie's Chicken and Vine Tomatoes
+Rating:
+1
+Ingredients
+10 chicken thighs, skin on
+1 lb mixed sized tomatoes on the vine
+1/2 lb baby courgettes, halved vertically
+2 cups of sourdough bread, cubed
+1/2 bunch of fresh thyme leaves
+1/2 cup cherries, stoned and halved
+2 tbsp olive oil
+5 tbsp balsamic vinegar
+Directions
+Brown the chicken thighs in a hot skillet on both sides.  In a large bowl toss the chicken and all the rest of the ingredients together, then pour into a large baking pan, positioning the chicken on top, skin side up.  Cook at 350 F for 1 to 1 1/2 hours until the chicken is browned and cooked through.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Barbeque
+Brunch
+Italian
+Pork
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

@@ -1,0 +1,55 @@
+Try Something New
+Crockpot Lasagna
+Rating:
+5
+Simple and easy way to make lasagna.
+Ingredients
+1 lb. ground beef
+1 clove garlic, minced
+1 onion, chopped
+1 16 oz. can tomato sauce
+1 6 oz. can tomato paste
+1/2 c. water
+1 Tbsp. oregano
+salt to taste
+1 4 oz. can mushrooms, drained
+2 c. mozzarella cheese
+12 oz. cottage cheese
+1/2 c. Parmesan cheese
+Lasagna noodles, uncooked
+Directions
+1. Brown ground been, garlic, and onions. Drain.
+2. Combine tomato sauce, tomato paste, oregano, salt, and mushrooms with beef.
+3. In a separate bowl, combine cheeses.
+4. Layer sauce, then noodles, then cheese three times and end with a fourth layer of sauce.
+5. Cook in crock pot on low for 5 hours.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Barbeque
+Casseroles
+Lamb
+Soups & Stews
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************

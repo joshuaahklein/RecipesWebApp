@@ -1,0 +1,54 @@
+Try Something New
+Veal and Beans
+Rating:
+1
+Ingredients
+2 tbsp olive oil
+1/2 onion, thinly sliced
+3 garlic cloves, chopped
+1 slice fresh ginger, minced
+1 mild chilli, seeded
+1/2 green bell pepper, diced
+1 lb ground veal
+1 tsp fresh thyme, chopped
+1 tsp fresh oregano, chopped
+1 bay leaf
+1 tsp piment d’espelette
+1 tsp salt
+1/2 tsp pepper
+1 can diced tomatoes
+2 cups canned white beans
+Grated cheese
+Directions
+Saute the onion, garlic, ginger, chilli and bell pepper in the oil until the onion is wilted.  Add the veal and continue to saute until all pink has disappeared.  Add the thyme, oregano, bay leaf, piment, salt, pepper and tomatoes, then bring to a boil and simmer for 15 minutes.
+Stir in the beans and continue to simmer for another 15 minutes.  Put in serving bowls and sprinkle with grated cheese.
+New to the Site? Register Now
+Username:
+Email Address:
+Password:
+Verify Password:
+First Name:
+Last Name:
+Do you wish to recieve periodic communications from us?
+Already A Member? Log In
+Username:
+Password:
+Browse Popular Categories
+Cheese
+Russian
+Side Dishes
+Vegan
+Join Now
+Interact With Us
+Follow @thereciped
+More from The Recipe Depository
+About Us
+Contact Us
+Privacy Policy
+Sitemap
+Help Center
+FAQs
+Copyright © 2015 The Recipe Depository
+Loading ...
+$(document).foundation();
+***************
