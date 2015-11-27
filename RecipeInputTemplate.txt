@@ -1,0 +1,28 @@
+Name
+<Recipe Name>
+Ingredients
+<Ingredient 1 Name>
+<Ingredient 2 Name>
+<Ingredient 3 Name>
+<Ingredient 4 Name>
+<Ingredient 5 Name>
+<Ingredient 6 Name>
+Rank
+<Rank Number for Recipe>
+Contents
+<Body of full recipe string>
+***********
+Name
+<Recipe Name>
+Ingredients
+<Ingredient 1 Name>
+<Ingredient 2 Name>
+<Ingredient 3 Name>
+<Ingredient 4 Name>
+<Ingredient 5 Name>
+<Ingredient 6 Name>
+Rank
+<Rank Number for Recipe>
+Contents
+<Body of full recipe string>
+***********
