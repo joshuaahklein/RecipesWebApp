@@ -121,8 +121,60 @@ public class IngredientsTable {
 	//Retrieves file if it exists and adds recipes from file to table
 	//Note that the file's format must follow the standard template and
 	//NOT the style of the master list used to initialize the table
-	public void insertRecipesFromFile(String filename) {
+	public void insertRecipesFromFile(String fileName) {
+		try {
+			FileReader file = new FileReader(fileName);
+			BufferedReader input = new BufferedReader(file);
 
+			String recipeContents = "", rname = null, line = null;
+			String [] words;
+			RecipeNode r;
+			IngredientNode ingNode;
+			ArrayList<IngredientNode> a = null;
+			int state = 0, rrating = 0;
+
+			//Reads through text file
+			while ((line = input.readLine()) != null) {
+				recipeContents += line + "\n";
+				switch (state) {
+					case 0: 
+					if (!line.contains("Try Something New")) {
+						rname = line; 
+						state++;
+					} break;
+					case 1: if (line.contains("Rating:")) state++; break;
+					case 2: rrating = Integer.parseInt(line); state++; break;
+					case 3: 
+						if (line.contains("Ingredients")) {
+							state++;
+							a = new ArrayList<IngredientNode>();
+						} break;
+					case 4: 
+						if (line.contains("Directions")) state++;
+						else {
+							for (String w : line.split("\\s+")) {
+								if (!w.matches(".*\\d.*")) {
+									a.add(ingNode = new IngredientNode(w.toLowerCase()));
+								}
+							}
+						} break;
+					case 5: 
+						if (line.contains("**********")) {
+							r = new RecipeNode(rname, rrating, recipeContents);
+							for (IngredientNode i : a) i.insertRecipe(r);
+							insertDelRecipe(r, a);
+							recipeContents = "";
+							state = 0;
+						} break;
+				}
+			}
+			//Closes file
+			input.close();
+		} catch(FileNotFoundException e) {
+			System.out.println("File not found!");
+		} catch(IOException e) {
+			System.out.println("IOException occured!");
+		}
 	}
 
 	//Once number of recipes reaches 1024, this function is used 
