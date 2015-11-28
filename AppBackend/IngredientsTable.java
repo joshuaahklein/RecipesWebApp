@@ -32,12 +32,14 @@ public class IngredientsTable {
 
 	public Hashtable<String, IngredientNode> setOfIngredients;
 	public PriorityQueue<RecipeNode> setOfRecipes; 
+	public Trie setOfIngredientNames;
 
 	//Constructor
 	public IngredientsTable() {
 		//Sets initial capacity and load factor for hash table, and initializes min heap
 		setOfIngredients = new Hashtable<String, IngredientNode>(7919/*, 0.5*/);
 		setOfRecipes = new PriorityQueue<RecipeNode>(1024, RecipeNode.c);
+		setOfIngredientNames = new Trie();
 	}
 
 	//Constructor with initial file; includes file handling
@@ -45,6 +47,7 @@ public class IngredientsTable {
 		//Sets initial capacity and load factor for hash table, and initializes min heap
 		setOfIngredients = new Hashtable<String, IngredientNode>(7919/*, 0.5*/);
 		setOfRecipes = new PriorityQueue<RecipeNode>(1024, RecipeNode.c);
+		setOfIngredientNames = new Trie();
 
 		//Formats and inserts recipes from file, if it exists
 		//Note that the format for the initial list is different
@@ -88,7 +91,10 @@ public class IngredientsTable {
 					case 5: 
 						if (line.contains("**********")) {
 							r = new RecipeNode(rname, rrating, recipeContents);
-							for (IngredientNode i : a) i.insertRecipe(r);
+							for (IngredientNode i : a) {
+								i.insertRecipe(r);
+								setOfIngredientNames.insertString(i.getName());
+							}
 							insertRecipe(r, a);
 							recipeContents = "";
 							state = 0;
@@ -161,7 +167,10 @@ public class IngredientsTable {
 					case 5: 
 						if (line.contains("**********")) {
 							r = new RecipeNode(rname, rrating, recipeContents);
-							for (IngredientNode i : a) i.insertRecipe(r);
+							for (IngredientNode i : a) {
+								i.insertRecipe(r);
+								setOfIngredientNames.insertString(i.getName());
+							}
 							insertDelRecipe(r, a);
 							recipeContents = "";
 							state = 0;

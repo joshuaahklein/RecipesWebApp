@@ -22,8 +22,18 @@ public class Driver {
 
 		ArrayList<RecipeNode> r = new ArrayList<RecipeNode>();
 
-		r = t.getRecipes("cup");
-		System.out.println("\nRecipes with cup:");
+		String str = "garlic";
+
+		System.out.println("With initial set:");
+		r = t.getRecipes(str);
+		System.out.println("\nRecipes with "+str+":");
+		for (RecipeNode rn : r) System.out.println(rn.getName());
+
+		t.insertRecipesFromFile("AltRecipeList.txt");
+
+		System.out.println("With secondary set:");
+		r = t.getRecipes(str);
+		System.out.println("\nRecipes with "+str+":");
 		for (RecipeNode rn : r) System.out.println(rn.getName());
 
 
