@@ -17,6 +17,9 @@ import java.util.*;
 public class Driver {
 
 	public static void main(String []args) {
+
+		//Tests ingredients table
+
 		IngredientsTable t = new IngredientsTable("MasterRecipeList.txt");
 		//IngredientsTable t = new IngredientsTable();
 
@@ -24,21 +27,20 @@ public class Driver {
 
 		String str = "garlic";
 
-		System.out.println("With initial set:");
+		System.out.println("\nWith initial set:");
 		r = t.getRecipes(str);
 		System.out.println("\nRecipes with "+str+":");
 		for (RecipeNode rn : r) System.out.println(rn.getName());
 
 		t.insertRecipesFromFile("AltRecipeList.txt");
 
-		System.out.println("With secondary set:");
+		System.out.println("\nWith secondary set:");
 		r = t.getRecipes(str);
 		System.out.println("\nRecipes with "+str+":");
 		for (RecipeNode rn : r) System.out.println(rn.getName());
 
-
-
-
+		System.out.println("Trie tests:");
+		t.setOfIngredientNames.getAllWords("g", t.setOfIngredientNames.root);
 
 	}
 }
