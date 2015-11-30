@@ -17,16 +17,7 @@ import java.util.Scanner;
 import java.util.PriorityQueue;
 import java.util.ArrayList;
 import java.util.Comparator;
-//Potential built-in maps/tables to use
-// import java.util.Dictionary;
-// import java.util.HashMap;
-// import java.util.HashSet;
 import java.util.Hashtable;
-// import java.util.IdentityHashMap;
-// import java.util.LinkedHashMap;
-// import java.util.LinkedHashSet;
-// import java.util.TreeMap;
-// import java.util.WeakHashMap;
 
 public class IngredientsTable {
 
@@ -37,7 +28,7 @@ public class IngredientsTable {
 	//Constructor
 	public IngredientsTable() {
 		//Sets initial capacity and load factor for hash table, and initializes min heap
-		setOfIngredients = new Hashtable<String, IngredientNode>(7919/*, 0.5*/);
+		setOfIngredients = new Hashtable<String, IngredientNode>(7919, (float)0.9);
 		setOfRecipes = new PriorityQueue<RecipeNode>(1024, RecipeNode.c);
 		setOfIngredientNames = new Trie();
 	}
@@ -45,7 +36,7 @@ public class IngredientsTable {
 	//Constructor with initial file; includes file handling
 	public IngredientsTable(String fileName) {
 		//Sets initial capacity and load factor for hash table, and initializes min heap
-		setOfIngredients = new Hashtable<String, IngredientNode>(7919/*, 0.5*/);
+		setOfIngredients = new Hashtable<String, IngredientNode>(7919, (float)0.9);
 		setOfRecipes = new PriorityQueue<RecipeNode>(1024, RecipeNode.c);
 		setOfIngredientNames = new Trie();
 

@@ -20,7 +20,7 @@ public class IngredientNode{
 		private int rank;
 		private String name;
 
-		//Initializes node with PriorityQueue for Recipe names
+		//Initializes node with AL for Recipe names
 		public IngredientNode(String name) {
 			this.name = name;
 			this.rank = 0;
