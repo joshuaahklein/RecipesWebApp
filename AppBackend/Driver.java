@@ -18,46 +18,40 @@ public class Driver {
 
 	public static void main(String []args) {
 
-		//For time testing
-		double a, b;
-
 		//Tests ingredients table
-
-		a = System.nanoTime();
 		IngredientsTable t = new IngredientsTable("MasterRecipeList.txt");
-		b = System.nanoTime();
-
-		System.out.println("Loading time: "+(b-a));
-		//IngredientsTable t = new IngredientsTable();
 
 		ArrayList<RecipeNode> r = new ArrayList<RecipeNode>();
 
-		String str = "garlic";
+		System.out.println("Enter ingredient:");
+		Scanner in = new Scanner(System.in);
+		String str = in.nextLine();
 
-
-
-		// System.out.println("\nWith initial set:");
-		a = System.nanoTime();
+		System.out.println("\n"+str+" has a rank of "+t.setOfIngredients.get(str).getRank()+".");
 		r = t.getRecipes(str);
-		b = System.nanoTime();
-		System.out.println("Getting time: "+(b-a));
-		// System.out.println("\nRecipes with "+str+":");
-		// for (RecipeNode rn : r) System.out.println(rn.getName());
+		System.out.println("\nRecipes with "+str+":");
+		for (RecipeNode rn : r) {
+			System.out.print(rn.getName());
+			System.out.println(" "+rn.getRank());
+		}
 
 
-		a = System.nanoTime();
 		t.insertRecipesFromFile("AltRecipeList.txt");
-		b = System.nanoTime();
-		System.out.println("Inserting time: "+(b-a));
 
 
-		// System.out.println("\nWith secondary set:");
-		a = System.nanoTime();
+		System.out.println("\n"+str+" has a rank of "+t.setOfIngredients.get(str).getRank()+".");
 		r = t.getRecipes(str);
-		b = System.nanoTime();
-		System.out.println("Getting time: "+(b-a));
-		// System.out.println("\nRecipes with "+str+":");
-		// for (RecipeNode rn : r) System.out.println(rn.getName());
+		System.out.println("\nRecipes with "+str+":");
+		for (RecipeNode rn : r) {
+			System.out.print(rn.getName());
+			System.out.println(" "+rn.getRank());
+		}
+
+		// System.out.println("\nTop 8 recipes:");
+		// for (RecipeNode rn : t.getTopRecipes()) {
+		// 	System.out.print(rn.getName());
+		// 	System.out.println(" "+rn.getRank());
+		// }
 
 
 	}

@@ -13,11 +13,13 @@
  */
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 
 public class IngredientNode{
 		
 		private ArrayList<RecipeNode> recipesList;
-		private int rank;
+		public int rank;
 		private String name;
 
 		//Initializes node with AL for Recipe names
@@ -26,13 +28,6 @@ public class IngredientNode{
 			this.rank = 0;
 			this.recipesList = new ArrayList<RecipeNode>();
 		}
-
-		//Increase and decrease rank (by 1) functions
-		public void increaseRank()
-		{rank++;}
-
-		public void decreaseRank()
-		{rank--;}
 
 		//Returns rank of ingredient
 		public int getRank()
@@ -45,18 +40,6 @@ public class IngredientNode{
 		//Returns AL with recipes
 		public ArrayList<RecipeNode> getRecipes()
 		{return recipesList;}
-
-		//Returns index of recipe with smallest rank
-		public int leastImportantRecipeIndex() {
-			int index = 0;
-			for (int i = 1; i < recipesList.size(); i++) {
-				if (recipesList.get(i) == null)
-					continue;
-				else if (recipesList.get(i).getRank() < recipesList.get(index).getRank())
-					index = i;
-			}
-			return index;
-		}
 
 		//If list's size is 8, insert will automatically remove least ranked
 		//recipe, and then it will add to list.  Adjusts rank as needed.  Also
@@ -76,17 +59,21 @@ public class IngredientNode{
 
 			//Checks size of recipes list and inserts accordingly
 			if (!dupe) {
-				if (recipesList.size() < 8) {
+				if (recipesList.size() == 0) recipesList.add(r);
+				else  {
 					recipesList.add(r);
+					Collections.sort(recipesList, new RecipeComparator());
 					rank += r.getRank();
-				} else {
-					int s = leastImportantRecipeIndex();
-					if (recipesList.get(s).getRank() <= r.getRank()) {
-						rank += r.getRank() - recipesList.get(s).getRank();
-						recipesList.remove(s);
-						recipesList.add(r);
-					}
+					if (recipesList.size() > 8) recipesList.remove(8);
 				}
+			}	
+		}
+
+		public static class RecipeComparator implements Comparator<RecipeNode> {
+			@Override
+			public int compare(RecipeNode a, RecipeNode b) {
+				if (a.getRank() < b.getRank()) return 1;
+				return -1;
 			}
 		}
 	}
