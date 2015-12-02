@@ -89,7 +89,7 @@ public class IngredientsTable {
 							r = new RecipeNode(rname, rrating, recipeContents);
 							for (IngredientNode i : a) {
 								i.insertRecipe(r);
-								setOfIngredientNames.insertString(i.getName());
+								setOfIngredientNames.add(i.getName());
 								r.ingredientsList.add(i);
 							}
 							insertRecipe(r, a);
@@ -171,7 +171,7 @@ public class IngredientsTable {
 							r = new RecipeNode(rname, rrating, recipeContents);
 							for (IngredientNode i : a) {
 								i.insertRecipe(r);
-								setOfIngredientNames.insertString(i.getName());
+								setOfIngredientNames.add(i.getName());
 								r.ingredientsList.add(i);
 							}
 							insertDelRecipe(r, a);
@@ -200,8 +200,15 @@ public class IngredientsTable {
 			setOfRecipes.add(r);
 
 			//Adjusts ingredient ranks for newly deleted recipe
-			for (IngredientNode i : deletedRecipe.ingredientsList)
+			//Also removes ingredient node and name from trie if size of 
+			//recipesList in node is 0 (aka, no recipes have that ingredient)
+			for (IngredientNode i : deletedRecipe.ingredientsList) {
 				setOfIngredients.get(i.getName()).rank -= deletedRecipe.getRank();
+				if (i.getRecipes().size() == 0) {
+					setOfIngredientNames.remove(i.getName());
+					setOfIngredients.remove(i.getName());
+				}
+			}
 
 			//Adds recipe's ingredients to table
 			for (IngredientNode i : a) {
@@ -227,6 +234,7 @@ public class IngredientsTable {
 		try {
 			//Set up file for overwriting
 			File f = new File(fileName);
+			f.createNewFile();
 			FileWriter master = new FileWriter(f, false);
 
 			//Gets PQ iterator

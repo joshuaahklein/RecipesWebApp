@@ -35,6 +35,8 @@ public class Driver {
 			System.out.println(" "+rn.getRank());
 		}
 
+		System.out.println("PQ Size: "+t.setOfRecipes.size());
+
 
 		t.insertRecipesFromFile("AltRecipeList.txt");
 
@@ -46,20 +48,24 @@ public class Driver {
 			System.out.print(rn.getName());
 			System.out.println(" "+rn.getRank());
 		}
+		System.out.println("PQ Size: "+t.setOfRecipes.size());
 
 		t.writePQToMaster("MasterRecipeList.txt");
 
-		ArrayList<String> a = new ArrayList<String>();
-		a.add("salsa"); a.add("bean"); a.add("chocolate");
-		a.add("pepper"); a.add("pork"); 
+		// ArrayList<String> a = new ArrayList<String>();
+		// a.add("salsa"); a.add("bean"); a.add("chocolate");
+		// a.add("pepper"); a.add("pork"); 
 
-		for (IngredientNode i : t.getTopIngredients(a)) System.out.println(i.getName()+" "+i.getRank());
+		// for (IngredientNode i : t.getTopIngredients(a)) System.out.println(i.getName()+" "+i.getRank());
 
 		// System.out.println("\nTop 8 recipes:");
 		// for (RecipeNode rn : t.getTopRecipes()) {
 		// 	System.out.print(rn.getName());
 		// 	System.out.println(" "+rn.getRank());
 		// }
+
+		System.out.println("\n");
+		for (String s : t.setOfIngredientNames.suggest(str.substring(0, 3))) System.out.println(s);
 
 
 	}
