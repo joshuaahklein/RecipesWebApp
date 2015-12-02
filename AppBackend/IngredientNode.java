@@ -69,6 +69,16 @@ public class IngredientNode{
 			}	
 		}
 
+		//For Comparator use with standard java library (necessary 
+		//for using java's built-in priority queue)
+		public static Comparator<IngredientNode> c = new Comparator<IngredientNode>(){
+			@Override
+			public int compare(IngredientNode a, IngredientNode b) {
+				if (a.getRank() < b.getRank()) return -1;
+				return 1;
+			}
+		};
+
 		public static class RecipeComparator implements Comparator<RecipeNode> {
 			@Override
 			public int compare(RecipeNode a, RecipeNode b) {

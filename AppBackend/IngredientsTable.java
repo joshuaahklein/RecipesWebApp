@@ -247,6 +247,28 @@ public class IngredientsTable {
 		}
 	}
 
+	//Returns AL containing top 5 ingredients with given list of prefixes
+	public ArrayList<IngredientNode> getTopIngredients(ArrayList<String> a) {
+		//Instantiates PQ
+		PriorityQueue<IngredientNode> top = new PriorityQueue<IngredientNode>(5, IngredientNode.c);
+
+		//Adds every ingredient with names from string list in min heap
+		for (String s : a) 
+			if (setOfIngredients.get(s) != null) 
+				top.add(setOfIngredients.get(s));
+
+		//Removes head of PQ until only 5 items (top rated) remain
+		while (top.size() > 5) top.poll();
+
+		//Adds items from PQ into ArrayList for return
+		ArrayList<IngredientNode> topIngredients = new ArrayList<IngredientNode>();
+
+		IngredientNode i;
+		while ((i = top.poll()) != null) topIngredients.add(0, i);
+
+		return topIngredients;
+	}
+
 	//Returns AL containing top 8 recipes
 	public ArrayList<RecipeNode> getTopRecipes() 
 	{return topRecipes;}

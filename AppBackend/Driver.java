@@ -49,6 +49,12 @@ public class Driver {
 
 		t.writePQToMaster("MasterRecipeList.txt");
 
+		ArrayList<String> a = new ArrayList<String>();
+		a.add("salsa"); a.add("bean"); a.add("chocolate");
+		a.add("pepper"); a.add("pork"); 
+
+		for (IngredientNode i : t.getTopIngredients(a)) System.out.println(i.getName()+" "+i.getRank());
+
 		// System.out.println("\nTop 8 recipes:");
 		// for (RecipeNode rn : t.getTopRecipes()) {
 		// 	System.out.print(rn.getName());
