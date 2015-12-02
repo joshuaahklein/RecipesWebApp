@@ -35,8 +35,6 @@ public class Driver {
 			System.out.println(" "+rn.getRank());
 		}
 
-		System.out.println("PQ Size: "+t.setOfRecipes.size());
-
 
 		t.insertRecipesFromFile("AltRecipeList.txt");
 
@@ -48,7 +46,6 @@ public class Driver {
 			System.out.print(rn.getName());
 			System.out.println(" "+rn.getRank());
 		}
-		System.out.println("PQ Size: "+t.setOfRecipes.size());
 
 		t.writePQToMaster("MasterRecipeList.txt");
 

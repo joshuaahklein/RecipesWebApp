@@ -79,8 +79,8 @@ public class IngredientsTable {
 						if (line.contains("Directions")) state++;
 						else {
 							for (String w : line.split("\\s+")) {
-								if (!w.matches(".*\\d.*")) {
-									a.add(ingNode = new IngredientNode(w.toLowerCase()));
+								if (!w.matches("[^\\w']+")) {
+									a.add(ingNode = new IngredientNode(w.replaceAll("[^a-zA-Z0-9\\s]", "").toLowerCase()));
 								}
 							}
 						} break;
@@ -161,8 +161,8 @@ public class IngredientsTable {
 						if (line.contains("Directions")) state++;
 						else {
 							for (String w : line.split("\\s+")) {
-								if (!w.matches(".*\\d.*")) {
-									a.add(ingNode = new IngredientNode(w.toLowerCase()));
+								if (!w.matches("[^\\w']+")) {
+									a.add(ingNode = new IngredientNode(w.replaceAll("[^a-zA-Z0-9\\s]", "").toLowerCase()));
 								}
 							}
 						} break;

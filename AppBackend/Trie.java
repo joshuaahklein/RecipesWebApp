@@ -194,39 +194,6 @@ public class Trie
 	}
 
 	/**
-	 * Searches for a word in the list.
-	 * 
-	 * @param word The word to search for.
-	 * @return True if the word was found.
-	 */
-	public boolean isEntry(String word)
-	{
-		if (word.length() == 0)
-			throw new IllegalArgumentException("Word can't be empty");
-		String w = (ignoreCase) ? word.toLowerCase() : word;
-		return isEntry(root, w + DELIMITER, 0);
-	}
-
-	/*
-	 * Does the real work of determining if a word is in the list
-	 */
-	private boolean isEntry(Node root, String word, int offset)
-	{
-		if (offset == word.length()) return true;
-		int c = word.charAt(offset);
-
-		// Search for node to add to
-		Node next = root.firstChild;
-		while (next != null)
-		{
-			if (next.value < c) next = next.nextSibling;
-			else if (next.value == c) return isEntry(next, word, offset + 1);
-			else return false;
-		}
-		return false;
-	}
-
-	/**
 	 * Returns all words in this list starting with the given prefix
 	 * 
 	 * @param prefix The prefix to search for.
