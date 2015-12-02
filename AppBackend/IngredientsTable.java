@@ -14,6 +14,7 @@
 
 import java.io.*;
 import java.util.Collections;
+import java.util.Iterator;
 import java.util.Scanner;
 import java.util.PriorityQueue;
 import java.util.ArrayList;
@@ -217,6 +218,32 @@ public class IngredientsTable {
 		} catch (NullPointerException e) {
 			System.out.println("Ingredient not found!");
 			return null;
+		}
+	}
+
+	//Rewrites recipes to master list from current PQ
+	//NOTE: Assumes file ALREADY EXISTS
+	public void writePQToMaster(String fileName) {
+		try {
+			//Set up file for overwriting
+			File f = new File(fileName);
+			FileWriter master = new FileWriter(f, false);
+
+			//Gets PQ iterator
+			Iterator<RecipeNode> i = setOfRecipes.iterator();
+
+			//Writes to file using iterator
+			RecipeNode r;
+			while (i.hasNext()) {
+				r = i.next();
+				master.write(r.getContents());
+			}
+
+			master.close();
+
+
+		} catch (IOException e) {
+			System.out.println("IOException occured!");
 		}
 	}
 

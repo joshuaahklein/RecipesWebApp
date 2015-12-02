@@ -47,6 +47,8 @@ public class Driver {
 			System.out.println(" "+rn.getRank());
 		}
 
+		t.writePQToMaster("MasterRecipeList.txt");
+
 		// System.out.println("\nTop 8 recipes:");
 		// for (RecipeNode rn : t.getTopRecipes()) {
 		// 	System.out.print(rn.getName());
